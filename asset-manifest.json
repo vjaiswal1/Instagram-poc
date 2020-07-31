@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hello-reacts/static/css/main.308dc0cd.chunk.css",
+    "main.js": "/hello-reacts/static/js/main.6fe24812.chunk.js",
+    "main.js.map": "/hello-reacts/static/js/main.6fe24812.chunk.js.map",
+    "runtime-main.js": "/hello-reacts/static/js/runtime-main.40d24ab6.js",
+    "runtime-main.js.map": "/hello-reacts/static/js/runtime-main.40d24ab6.js.map",
+    "static/css/2.fb346933.chunk.css": "/hello-reacts/static/css/2.fb346933.chunk.css",
+    "static/js/2.9328ba90.chunk.js": "/hello-reacts/static/js/2.9328ba90.chunk.js",
+    "static/js/2.9328ba90.chunk.js.map": "/hello-reacts/static/js/2.9328ba90.chunk.js.map",
+    "index.html": "/hello-reacts/index.html",
+    "precache-manifest.82313b1b5684cf64ff3bf585bf5dca44.js": "/hello-reacts/precache-manifest.82313b1b5684cf64ff3bf585bf5dca44.js",
+    "service-worker.js": "/hello-reacts/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/hello-reacts/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.308dc0cd.chunk.css.map": "/hello-reacts/static/css/main.308dc0cd.chunk.css.map",
+    "static/js/2.9328ba90.chunk.js.LICENSE.txt": "/hello-reacts/static/js/2.9328ba90.chunk.js.LICENSE.txt",
+    "static/media/saloon1.jpg": "/hello-reacts/static/media/saloon1.9f4e94df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d24ab6.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.9328ba90.chunk.js",
+    "static/css/main.308dc0cd.chunk.css",
+    "static/js/main.6fe24812.chunk.js"
+  ]
+}
