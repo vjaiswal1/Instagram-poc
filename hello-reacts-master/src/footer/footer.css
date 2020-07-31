@@ -1,0 +1,11 @@
+.FooterCss{
+    background-color:#86cbc4;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+  
+   color: white;
+   text-align: center;
+   
+  }
