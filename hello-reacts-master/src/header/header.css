@@ -1,0 +1,43 @@
+
+.HeaderCss{
+    
+  background-color: #86cbc4;
+  padding: 10vmin 1rem;
+  margin-top: -4%;
+  max-height: 33%;
+  position: fixed;
+  left: 0;
+  }
+
+  h1{
+    text-align: -webkit-left;
+    margin-top: inherit;
+    color: white;
+  }
+
+  pre{
+    text-align: -webkit-left;
+    margin-top: -10%;
+    color: white;
+    font-size: large;
+    padding-top: 2%;
+  }
+
+  .row{
+    display:flex; flex-direction:row;
+  }
+
+  .Header-Links{
+    color: white;
+    margin-left: auto;
+  }
+
+  a{
+      color: white;
+  }
+
+  .Search-Grid{
+    padding: 0%;
+}
+
+  

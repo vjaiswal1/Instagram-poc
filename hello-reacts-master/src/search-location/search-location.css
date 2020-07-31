@@ -1,0 +1,19 @@
+.TextFieldCssLocation{
+    background-color: white;
+    padding: 0%;
+    margin-top: 60%;
+    font-size: large;
+    border-color: floralwhite;
+    Outline-color: white;
+    height: 75%;
+}
+
+.search-icon-location{
+    position: absolute;
+    left: 34%;
+    top: 76%;
+    width: 3%;
+    height: 10%;
+}
+
+

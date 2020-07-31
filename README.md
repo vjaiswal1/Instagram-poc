@@ -1,2 +1,0 @@
-# partner-ui
-partner-ui
